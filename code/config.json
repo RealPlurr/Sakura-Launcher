@@ -1,11 +1,11 @@
 {
     "IsExample": false,
     "MinecraftDir": "C:\\Users\\User\\AppData\\Roaming\\.minecraft\\",
-    "Email": "PlurrYT",
+    "Email": "",
     "UUID": "",
     "AccessToken": "",
-    "JVMRAM": 4,
+    "JVMRAM": 2,
     "Premium": false,
-    "LastSelected": "OptiFine 1.12.2",
+    "LastSelected": "1.12.2",
     "OnlyReleases": false
 }
